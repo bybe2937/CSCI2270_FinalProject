@@ -35,4 +35,4 @@ Contributors:
 +  N/A
 
 Open issues/bugs
-+  N/A
++  As of 4/28/15 our code curently does not run. We have multiple bugs that my partner and I cannot fix. One is with the parsing of the file which is giving us a seg fault. I will continue to update the code to get it running
